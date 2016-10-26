@@ -85,6 +85,10 @@ tr {
   padding: 0px 20px;
 }
 
+.list-inline {
+  padding: 0px;
+}
+
 .logo-size {
   width: 75px;
   opacity: 0.7;
@@ -144,4 +148,13 @@ tr {
 #content {
   margin-left: 30px;
   overflow: auto;
+}
+
+.flag {
+  width: 30px;
+}
+
+.list-without-bullet {
+  list-style: none;
+  padding-left: 15px
 }
