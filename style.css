@@ -18,14 +18,14 @@ h1, h3 {
 }
 
 h1 {
-    color: #DD5555;
-    font-size: 25px;
+  color: #DD5555;
+  font-size: 25px;
 }
 
 h2 {
-    color: #3F3F3F;
-    font-weight: 700;
-    font-size: 20px;
+  color: #3F3F3F;
+  font-weight: 700;
+  font-size: 20px;
 }
 
 h3 {
@@ -73,7 +73,7 @@ tr {
 
 .img-cicrle {
   border-radius: 50%
-  }
+}
 
 .text-center {
   text-align: center;
@@ -132,13 +132,13 @@ tr {
 }
 
 #sidebar ul {
-    list-style: none;
-    padding-left: 0px;
+  list-style: none;
+  padding-left: 0px;
 }
 
 #sidebar li {
-    margin-top: 70px;
-    margin-bottom: 70px;
+  margin-top: 70px;
+  margin-bottom: 70px;
 }
 
 #sidebar a {
@@ -171,4 +171,8 @@ tr {
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+ul {
+  padding: 0px 12px;
 }
