@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Kaushan+Script);
+
 body {
   font-family: 'Open Sans', sans-serif;
   color: #333333;
@@ -7,8 +9,10 @@ body {
   url("https://source.unsplash.com/Mptbg_EWLUs/1600x900") top right no-repeat fixed;
 
 }
-
-h1, h2, h3 {
+h2 {
+  font-family: 'Kaushan Script';
+}
+h1, h3 {
   font-family: 'PT Sans Narrow', sans-serif;
   line-height: 2em;
 }
@@ -123,6 +127,8 @@ tr {
   background: rgba(44,62,80, 0.4);
   color: #eee;
   overflow: hidden;
+  font-family: 'Kaushan Script';
+
 }
 
 #sidebar ul {
